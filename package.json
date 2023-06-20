@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "weather_webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@svgr/hast-util-to-babel-ast": "^8.0.0",
+    "@svgr/webpack": "^8.0.1"
   }
 }
