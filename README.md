@@ -6,7 +6,5 @@ A simple REACT web app that provides a user interface to retrieve weather foreca
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- 7timer API
-- Javascript
+- React
+- OpenWeatherMap API
